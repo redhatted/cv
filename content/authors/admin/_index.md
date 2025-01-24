@@ -56,8 +56,8 @@ social:
     icon_pack: fab
     link: https://github.com/redhatted
   
-  - icon: hero/sparkles
-    icon_pack: fab
+  - icon: cv
+    icon_pack: ai
     link: https://than-os.gr
 
 # Link to a PDF of your resume/CV from the About widget.
