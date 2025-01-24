@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Thanos Maris
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚀
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data Analyst with a passion for learning new things!
 
 #interests:
 #- Artificial Intelligence
@@ -58,16 +58,14 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Passionate learner with 12 years of experience in retail sales, customer management and satisfaction. Strong believer in team effort and unity to achieve desired outcome. Early adopter of new technologies, eager in finding ways of implementing them. Performance driven with a desire to inspire others and achieve set goals.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
