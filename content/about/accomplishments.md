@@ -30,9 +30,9 @@ items:
   - certificate_url: https://www.linkedin.com/in/thanos-maris-b4653274/
     date_end: ''
     date_start: '2021-01-25'
-    description: ''
-    organization: CodeHub
-    organization_url: https://www.coursera.org
+    # description: ''
+    # organization: CodeHub
+    # organization_url: https://www.coursera.org
     # title: Neural Networks and Deep Learning
     # url: ''
   # - certificate_url: https://www.edx.org
