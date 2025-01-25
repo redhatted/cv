@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Experience
-subtitle:
+subtitle: a quick overview of my work experience
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
