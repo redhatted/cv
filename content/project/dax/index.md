@@ -1,8 +1,8 @@
 ---
-title: My DAX Projects
+title: My PowerBI Projects
 summary: A quick overview...
 tags:
-  - DAX
+  - PowerBI
 date: 2022-01-01
 external_link: http://github.com
 ---

@@ -29,9 +29,9 @@ content:
     - name: All
       tag: '*'
     - name: Data Analysis
-      tag: DAX
+      tag: PowerBI
     - name: Data Engineering
-      tag: Python
+      tag: Engineering
     - name: Homelab
       tag: Docker
 
