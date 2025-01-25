@@ -52,13 +52,13 @@ social:
   #   icon_pack: fab
   #   link: https://instagram.com/geocushen
 # Uncomment below for Github link
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/redhatted
+  - icon: "📞"
+    icon_pack: emoji
+    link: "00306944696694"
   
-  - icon: cv
-    icon_pack: ai
-    link: https://than-os.gr
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: https://than-os.gr
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
