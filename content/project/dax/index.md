@@ -4,7 +4,5 @@ summary: A quick gif overview
 tags:
   - PowerBI
 ---
-<div style="text-align: center;">
-  <img src="/files/powerbi.gif" alt="PowerBI GIF" style="max-width: 100%; height: auto;">
-</div>
----
+<img src="/files/powerbi.gif" alt="PowerBI GIF" style="max-width: 100%; height: auto;">
+
