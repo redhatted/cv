@@ -35,6 +35,33 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+  - title: Shop Manager
+    company: Vodafone Greece
+    company_url: www.vodafone.gr
+    company_logo: org-x
+    location: Athens
+    date_start: '2019-12-01'
+    date_end: '2021-09-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Sales
+        * Teamwork
+        * Vision
+
+  - title: Team Ready
+    company: Vodafone Greece
+    company_url: www.vodafone.gr
+    company_logo: org-x
+    location: Athens
+    date_start: '2012-05-01'
+    date_end: '2019-12-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Revenue
+        * Customer Satisfaction
+        * Training
 
   # - title: Professor of Semiconductor Physics
   #   company: University X
