@@ -1,6 +1,6 @@
 ---
 title: Homelab
-summary: My side project
+summary: My side hobby
 tags:
   - Homelab
 date: 2022-01-01

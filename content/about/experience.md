@@ -62,6 +62,19 @@ experience:
         * Revenue
         * Customer Satisfaction
         * Training
+  - title: Sales Advisor @ Vodafone - Plaisio
+    company: Vodafone Greece
+    company_url: www.vodafone.gr
+    company_logo: org-x
+    location: Athens
+    date_start: '2007-11-01'
+    date_end: '2011-05-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Sales
+        * Customer Satisfaction
+        
 
   # - title: Professor of Semiconductor Physics
   #   company: University X
