@@ -64,12 +64,14 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Passionate learner with 12 years of experience in retail sales, customer management and satisfaction. Strong believer in team effort and unity to achieve desired outcome. Early adopter of new technologies, eager in finding ways of implementing them. Performance driven with a desire to inspire others and achieve set goals. ℹ️
+Hey there! I’m Thanos Maris, a Data Analyst at Vodafone Greece with a love for learning, exploring new ideas, and diving into data. 
+With over 18 years of experience spanning retail sales, customer management, and data analysis, I’ve had the chance to work with amazing teams and tackle all kinds of challenges.
+I’m all about teamwork and finding creative, practical solutions that deliver real results. I get excited about new technologies and love figuring out how to put them to good use.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "static/files/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
