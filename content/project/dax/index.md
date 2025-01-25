@@ -1,6 +1,6 @@
 ---
 title: PowerBI Projects
-summary: A quick overview...
+summary: A quick gif overview
 tags:
   - PowerBI
 date: 2022-01-01
