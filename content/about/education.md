@@ -21,18 +21,18 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  experience:
-    - title: Department of Informatics and Computer Engineering
-      company: Athens University
-      # company_url: ''
-      # company_logo: org-x
-      location: Athens, Greece
-      date_start: '2004-01-01'
-      date_end: '2008-01-01'
-      # description: |2-
-          # * Dissertation on Y
-          # * Basketball team
-          # * DJ club
+experience:
+  - title: Department of Informatics and Computer Engineering
+    company: Athens University
+    # company_url: ''
+    # company_logo: org-x
+    location: Athens, Greece
+    date_start: '2004-01-01'
+    date_end: '2008-01-01'
+    # description: |2-
+        # * Dissertation on Y
+        # * Basketball team
+        # * DJ club
 
 #   - title: BEng Electronic Engineering
 #     company: University X
