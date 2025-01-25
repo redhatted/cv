@@ -52,8 +52,8 @@ social:
   #   icon_pack: fab
   #   link: https://instagram.com/geocushen
 # Uncomment below for Github link
-  - icon: "📞"
-    icon_pack: emoji
+  - icon: phone
+    icon_pack: fab
     link: "00306944696694"
   
   # - icon: cv
