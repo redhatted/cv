@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -26,7 +26,6 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.codehub.gr/wp-content/uploads/2023/04/Certificate-of-Completion-23C014516-Future-Ready-Reskilling-Academy-4-Business-Intelligence-Engineers-Athanasios-Maris.pdf
     date_end: ''
-   # company_logo: codehub
     date_start: '2023-03-13'
     description: 'Data Engineering - Future Ready Reskilling Academy 4 Business Intelligence Engineers'
     organization: Codehub
