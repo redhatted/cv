@@ -70,7 +70,7 @@ social:
 #email: ""
 ---
 
-Hey there! I’m Thanos Maris, a Data Analyst at Vodafone Greece with a love for learning, exploring new ideas, and diving into data. 
+I’m Thanos Maris, a Data Analyst at Vodafone Greece with a love for learning, exploring new ideas, and diving into data. 
 With over 18 years of experience spanning retail sales, customer management, and data analysis, I’ve had the chance to work with amazing teams and tackle all kinds of challenges.
 I’m all about teamwork and finding creative, practical solutions that deliver real results. I get excited about new technologies and love figuring out how to put them to good use.
 
