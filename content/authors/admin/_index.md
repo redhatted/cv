@@ -53,8 +53,8 @@ social:
   #   link: https://instagram.com/geocushen
 # Uncomment below for Github link
   - icon: phone
-    icon_pack: fab
-    link: "00306944696694"
+    icon_pack: fas
+    link: "tel:+306944696694"
   
   # - icon: cv
   #   icon_pack: ai
