@@ -27,7 +27,7 @@ experience:
     company_url: www.vodafone.gr
     company_logo: org-x
     location: Athens
-    date_start: '2021-01-01'
+    date_start: '2021-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
