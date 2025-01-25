@@ -1,8 +1,8 @@
 ---
-title: My PowerBI Projects
+title: PowerBI Projects
 summary: A quick overview...
 tags:
   - PowerBI
 date: 2022-01-01
-external_link: http://github.com
+external_link: /files/powerbi.gif
 ---
