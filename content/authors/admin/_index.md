@@ -20,10 +20,10 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: Data Analyst with a passion for learning new things!
 
-interests:
-- Homelabbing
-- Chess
-- Books
+# interests:
+# - Homelabbing
+# - Chess
+# - Books
 
 #education:
 #  courses:
