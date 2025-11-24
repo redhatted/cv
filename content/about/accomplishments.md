@@ -26,7 +26,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.codehub.gr/wp-content/uploads/2023/04/Certificate-of-Completion-23C014516-Future-Ready-Reskilling-Academy-4-Business-Intelligence-Engineers-Athanasios-Maris.pdf
     date_end: ''
-    date_start: '2023-03-13'
+    date_start: '2025-03-13'
     description: 'Data Engineering - Future Ready Reskilling Academy 4 Business Intelligence Engineers'
     organization: Codehub
     organization_url: https://www.codehub.gr
