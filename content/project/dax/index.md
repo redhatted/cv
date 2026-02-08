@@ -8,9 +8,6 @@ share: false
 ---
 <img src="/files/powerbi.gif" alt="PowerBI GIF" style="max-width: 100%; height: auto;">
 
-## Overview
-
-A collection of interactive dashboards and reports built with **Power BI**, showcasing data visualization and business intelligence skills.
 
 ### Key Highlights
 
