@@ -1,0 +1,10 @@
+<footer class="site-footer">
+  {{/* Retrieve copyright notice */}}
+  {{ $copyright := replace site.Params.footer.copyright.notice "{year}" now.Year }}
+
+  {{ with $copyright }}
+  <p class="powered-by footer-license-text">
+    {{ . | markdownify }}
+  </p>
+  {{ end }}
+</footer>
