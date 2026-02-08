@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Contact widget.
 # Documentation: https://docs.hugoblox.com/getting-started/page-builder/
 widget: contact
@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Get in touch
-subtitle: Sent me a message
+subtitle: Send me a message
 
 content:
   # Automatically link email and phone or display as text?
@@ -18,13 +18,12 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
+      id: meelojdv
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
 design:
   columns: '1'
---- -->
+---

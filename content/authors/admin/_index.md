@@ -42,20 +42,6 @@ bio: Data Analyst with a passion for learning new things!
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:thanos.maris@gmail.com # For a direct email link, use "mailto:test@example.org".
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/wowchemy
-  # - icon: instagram
-  #   icon_pack: fab
-  #   link: https://instagram.com/geocushen
-# Uncomment below for Github link
-  - icon: phone
-    icon_pack: fas
-    link: "tel:+306944696694"
-
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/thanos-maris-b4653274/
