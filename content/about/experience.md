@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Data Analyst
     company: Vodafone Greece
-    company_url: www.vodafone.gr
+    company_url: https://www.vodafone.gr
     company_logo: org-x
     location: Athens
     date_start: '2021-09-01'
@@ -37,7 +37,7 @@ experience:
         * Deploying
   - title: Shop Manager
     company: Vodafone Greece
-    company_url: www.vodafone.gr
+    company_url: https://www.vodafone.gr
     company_logo: org-x
     location: Athens
     date_start: '2019-12-01'
@@ -51,7 +51,7 @@ experience:
 
   - title: Team Ready
     company: Vodafone Greece
-    company_url: www.vodafone.gr
+    company_url: https://www.vodafone.gr
     company_logo: org-x
     location: Athens
     date_start: '2012-05-01'
@@ -64,7 +64,7 @@ experience:
         * Training
   - title: Sales Advisor @ Vodafone - Plaisio
     company: Vodafone Greece
-    company_url: www.vodafone.gr
+    company_url: https://www.vodafone.gr
     company_logo: org-x
     location: Athens
     date_start: '2007-11-01'
