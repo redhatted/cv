@@ -45,6 +45,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/thanos-maris-b4653274/
+  - icon: envelope
+    icon_pack: fas
+    link: /about/#contact
   
   # - icon: cv
   #   icon_pack: ai
