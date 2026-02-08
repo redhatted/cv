@@ -45,7 +45,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/thanos-maris-b4653274/
-  - icon: envelope
+  - icon: paper-plane
     icon_pack: fas
     link: /about/#contact
   
@@ -64,7 +64,7 @@ social:
 ---
 
 I’m Thanos Maris, a Data Analyst at Vodafone Greece with a love for learning, exploring new ideas, and diving into data. 
-With over 18 years of experience spanning retail sales, customer management, and data analysis, I’ve had the chance to work with amazing teams and tackle all kinds of challenges.
+With over {{< years-since 2007 >}} years of experience spanning retail sales, customer management, and data analysis, I've had the chance to work with amazing teams and tackle all kinds of challenges.
 I’m all about teamwork and finding creative, practical solutions that deliver real results. I get excited about new technologies and love figuring out how to put them to good use.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "/files/cv.pdf" "newtab" >}}Download{{< /staticref >}} my full resumé as a PDF.
