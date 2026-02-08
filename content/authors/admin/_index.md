@@ -44,7 +44,7 @@ bio: Data Analyst with a passion for learning new things!
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/thanos-maris-b4653274/
+    link: https://www.linkedin.com/in/thanos-m-b4653274/
   - icon: paper-plane
     icon_pack: fas
     link: /about/#contact
